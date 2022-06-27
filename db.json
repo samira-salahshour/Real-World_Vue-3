@@ -9,7 +9,7 @@
           "date": "January 18 2020",
           "time": "12:00",
           "petsAllowed": true,
-          "organizer": "kate",
+          "organizer": "kate"
         },
         {
           "id": 2246,
@@ -20,7 +20,7 @@
           "date": "January 19 2020",
           "time": "12:00",
           "petsAllowed": true,
-          "organizer": "kate1",
+          "organizer": "kate1"
         },
         {
           "id": 2247,
@@ -31,7 +31,7 @@
           "date": "January 17 2020",
           "time": "12:00",
           "petsAllowed": true,
-          "organizer": "kate2",
+          "organizer": "kate2"
         }
       ]
     }
