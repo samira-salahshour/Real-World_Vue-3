@@ -6,10 +6,10 @@
           "title": "Cat Adoption Day",
           "description": "blah blah",
           "location": "blah blah",
-          pets: 1,
-        extras:{
-          catering:false,
-          music:false
+          "pets": 1,
+        "extras":{
+          "catering":false,
+          "music":false
         }
         }
        ]
