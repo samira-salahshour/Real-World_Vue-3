@@ -1,5 +1,5 @@
 {
-       "formData": [
+       "events": [
         {
           "id": 2245,
           "category": "",
@@ -13,40 +13,4 @@
         }
         }
        ]
-      
-      "events": [
-        {
-          "id": 2245,
-          "category": "animal welfare",
-          "title": "Cat Adoption Day",
-          "description": "blah blah",
-          "location": "blah blah",
-          "date": "January 18 2020",
-          "time": "12:00",
-          "petsAllowed": true,
-          "organizer": "kate"
-        },
-        {
-          "id": 2246,
-          "category": "animal welfare1",
-          "title": "Cat Adoption Day1",
-          "description": "blah blah1",
-          "location": "blah blah1",
-          "date": "January 19 2020",
-          "time": "12:00",
-          "petsAllowed": true,
-          "organizer": "kate1"
-        },
-        {
-          "id": 2247,
-          "category": "animal welfare2",
-          "title": "Cat Adoption Day2",
-          "description": "blah blah2",
-          "location": "blah blah2",
-          "date": "January 17 2020",
-          "time": "12:00",
-          "petsAllowed": true,
-          "organizer": "kate2"
-        }
-      ]
     }
